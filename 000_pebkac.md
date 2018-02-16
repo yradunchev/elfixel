@@ -4,7 +4,7 @@
 [\_] Make sure _CapsLock_ is off. (Same for _ScrollLock_ and _NumLock_)   
 [\_] Check the file permissions.   
 [\_] Are you **really** on the host you think you are?   
-[\_] Are you doing the test from the **right machine|vlan**?   
+[\_] Are you doing the test from the **right host|vlan**?   
 [\_] Are you testing with **the right user account**?   
 [\_] Is that a _file_, a _directory_, a _hard link_, a _symbolic link_, or a _mountpoint_?   
 
