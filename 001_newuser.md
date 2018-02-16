@@ -49,7 +49,7 @@
 [\_] User has changed bitlocker PIN?   
 [\_] Has an RSA Token been allocated to the user - if applicable.   
 [\_] Has the user been shown how to connect to VPN - if applicable.   
-[\_] Direct Access tested and works - if applicable.
+[\_] Direct Access tested and works - if applicable.   
 [\_] Have you shown the user how to connect to wireless networks?   
 [\_] Has the user been shown how to dock and undock the laptop?   
 [\_] Have you shown the user how to put the laptop to projector output?   
