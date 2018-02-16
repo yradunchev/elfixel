@@ -39,7 +39,7 @@
 [\_] Fault and request process sheet has been explained to the user   
 [\_] Hardware allocation sheet explained and signed by user.   
 
-###Laptop Users
+### Laptop Users
 [\_] Is the Hard drive encrypted and bitlocker recovery password in AD?   
 [\_] User has changed bitlocker PIN?   
 [\_] Has an RSA Token been allocated to the user - if applicable.   
@@ -49,5 +49,5 @@
 [\_] Have you shown the user how to put the laptop to projector output?   
 [\_] Have you shown the user how to remove the battery?   
 
-###Optional
+### Optional
 [\_] Has a UPS been connected and is not directly on the floor?   
