@@ -14,15 +14,16 @@
 [\_] Is the screen **paused** via _ctrl-s_? (press _ctrl-q_ to find out)   
 
 ### Does your test gear test what you think it tests?
-  [\_] What happens when you run the exact same test on a _known-good_ and a _known-bad_ element?   
-  [\_] Do you get the results you expect **both** ways?   
+[\_] What happens when you run the exact same test on a _known-good_ and a _known-bad_ element?   
+[\_] Do you get the results you expect **both** ways?   
 
 ### You can get to the web site?
-  [\_] Are you working in "off-line" mode?   
-  [\_] Can you get to a different web site?   
-  [\_] Do you have DNS issues? Try _dig_-ing that site name.   
-  [\_] Network issues? Can you ping 8.8.8.8?   
+[\_] Are you working in "off-line" mode?   
+[\_] Can you get to a different web site?   
+[\_] Do you have DNS issues? Try _dig_-ing that URL.   
+[\_] Network issues? Can you ping 8.8.8.8?   
+[\_] Are you looking at the cached version? Ctrl+R
 
 ### Are the binaries **really** the ones you think are running?
-  [\_] Did you install in single user mode when /opt wasn't mounted?   
-  [\_] Can you check the md5 or sha1 checksum vs. a machine that is running properly?   
+[\_] Did you install in single user mode when /opt wasn't mounted?   
+[\_] Can you check the md5 or sha1 checksum vs. a machine that is running properly?   
