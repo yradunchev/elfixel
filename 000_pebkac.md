@@ -1,8 +1,8 @@
 ## Layer 0 - PEBKAC
 
-[ ] Make sure _CapsLock_ is off. (Same for _ScrollLock_ and _NumLock_)
+[] Make sure _CapsLock_ is off. (Same for _ScrollLock_ and _NumLock_)
 
-[ ] Type it again (without using cut-and-paste) and see if you get the same results. (good way to find a typo or a unicode "whitespace" char)
+[] Type it again (without using cut-and-paste) and see if you get the same results. (good way to find a typo or a unicode "whitespace" char)
 
 - Use cut-and-paste to copy that variable name (or URL, commmand line, etc.) to see if it was entered correctly.
 
