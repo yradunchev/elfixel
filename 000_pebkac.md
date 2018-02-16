@@ -1,4 +1,4 @@
-## Layer 0 - PEBKAC
+## PEBKAC
 
 ### Generals
 [\_] Make sure _CapsLock_ is off. (Same for _ScrollLock_ and _NumLock_)   
