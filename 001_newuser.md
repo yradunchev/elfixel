@@ -17,8 +17,13 @@
 [\_] Peripheral cables (Keyboard, Mouse, Monitor) are neatly strapped   
 [\_] Users Monitor/s powered on and set to the same height?   
 [\_] Monitor/s layout is correct and resolution is at its highest?   
+[\_] Users account created in AD?   
+[\_] User is assigned to all standard AD security groups and to all AD security groups related to her role?   
+[\_] Users profile created on Office FS?   
+[\_] Users account added to all needed DLs?   
 [\_] Induction sheet been given to the user   
 [\_] User is able to logon using details on induction sheet   
+[\_] User is logged on her roaming profile?   
 [\_] User has changed logon password?   
 [\_] Users keyboard layout is correct for the region   
 [\_] Nearest printer is installed as default and the user has been shown its location   
